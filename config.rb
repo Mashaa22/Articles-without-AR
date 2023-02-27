@@ -25,6 +25,6 @@ p magazine1.contributors
 # Test association and aggregate methods
 author1.add_article(magazine2, 'The Heroic Man')
 p author1.topic_areas
-p Magazine.find_by_name('Rolling Stone')
+p Magazine.find_by_name('NEWTIMES')
 p magazine1.article_titles
 p magazine2.contributing_authors
