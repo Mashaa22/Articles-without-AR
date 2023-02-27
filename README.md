@@ -18,7 +18,7 @@ I will be able to search a specific author, magazine or article
 I will be able to find an article by author's name
 
 ## Video Link
-Here is the link [articles.rb][label](../articles/Demo/Screencast%20from%2027-02-2023%2002%3A26%3A56%20ALASIRI.webm)
+Here is the link [articles.][video](https://watch.screencastify.com/v/pRgPQGqVB3LTxXzBlgMJ)
 
 ## Bugs
     There is no bugs in the project as per my knowledge on code so far. 
